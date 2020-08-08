@@ -6,7 +6,9 @@ body{
     padding:0;
     background-color: azure;
 }
-
+*{
+  transition: .3s;
+}
 /*Global */
 .container{
     width:80%;
@@ -71,7 +73,7 @@ header a:hover{
 /* showcase */
 #showcase{
     min-height: 400px;
-    background-image: url('../images/im22.jpg') ;
+    background-image: url('../images/photo-1583236090830-e6c97fe49e69.jpg') ;
     background-size: 100% 100%;
     text-align: center;
     color: aliceblue;
